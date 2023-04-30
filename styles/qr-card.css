@@ -1,0 +1,31 @@
+.qr-card {
+  height: 480px;
+  width: 310px;
+  text-align: center;
+  background-color: #fff;
+  border-radius: 15px;
+  padding: 15px;
+}
+
+.qr-card img {
+  height: 280px;
+  width: 280px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.qr-card div {
+  width: 250px;
+  margin: 0 auto;
+}
+
+.card-title {
+  color: #1f3251;
+  font-size: 21px;
+  font-weight: 700;
+  margin-bottom: 15px;
+}
+
+.card-description {
+  color: #7b879d;
+}
