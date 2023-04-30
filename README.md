@@ -24,7 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Click](https://www.frontendmentor.io/solutions/solution-using-flexbox-LV0X6XZ3c1)
-- Live Site URL: [Click](rock-n-roll-crc.github.io)
+- Live Site URL: [Click](https://rock-n-roll-crc.github.io/QR-code-component/)
 
 ## My process
 
