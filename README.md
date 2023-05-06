@@ -17,14 +17,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/screenshot.jpg)
 
 
 
 ### Links
 
-- Solution URL: [Click](https://www.frontendmentor.io/solutions/solution-using-flexbox-LV0X6XZ3c1)
-- Live Site URL: [Click](https://rock-n-roll-crc.github.io/QR-code-component/)
+- Solution URL: [https://www.frontendmentor.io/solutions/solution-using-flexbox-LV0X6XZ3c1](https://www.frontendmentor.io/solutions/solution-using-flexbox-LV0X6XZ3c1)
+- Live Site URL: [https://rock-n-roll-crc.github.io/QR-code-component/](https://rock-n-roll-crc.github.io/QR-code-component/)
 
 ## My process
 
@@ -38,7 +38,7 @@ While working on this project I consolidated my knowledge of basic HTML and CSS.
 
 ### Continued development
 
-In future projects I want to focus on Responsive Design, using relative units.
+In future projects I want to focus on responsive design, using relative units.
 
 ## Author
 
