@@ -1,0 +1,31 @@
+main {
+  height: 480px;
+  width: 310px;
+  background-color: #fff;
+  text-align: center;
+  padding: 15px;
+  border-radius: 20px;
+  box-shadow: 0 15px 35px #00000015;
+}
+
+main img {
+  height: 280px;
+  width: 280px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+main div {
+  width: 250px;
+  margin: 0 auto;
+}
+
+.card-title {
+  color: #1f3251;
+  font: 700 21px Outfit, sans-serif;
+  margin-bottom: 15px;
+}
+
+.card-description {
+  color: #7b879d;
+}
